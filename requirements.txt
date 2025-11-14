@@ -1,0 +1,14 @@
+# Threads Bot Dependencies
+
+# Telegram бот
+python-telegram-bot==20.7
+
+# HTTP запити
+requests==2.31.0
+
+# OpenAI для розбивки текстів (остання версія для GPT-4.1)
+openai>=1.50.0
+
+# Інші залежності
+python-dotenv==1.0.0
+
